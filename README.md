@@ -30,8 +30,6 @@ Beyond academics, I actively solve complex algorithmic problems and run a tech e
 
 ## 🛠️ Tech Stack 
 
-> *Consistent dark theme applied for a premium, distraction-free recruiter experience.*
-
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -94,9 +92,9 @@ Beyond academics, I actively solve complex algorithmic problems and run a tech e
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Using a matching dark/green theme for stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarpattasani&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpattasani&theme=radical&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%" />
+  <!-- Fixed API Links using a stable dark theme (radical) and updated stable streak server -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarpattasani&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=sagarpattasani&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
@@ -104,8 +102,9 @@ Beyond academics, I actively solve complex algorithmic problems and run a tech e
 ## 📂 Featured Projects
 
 <div align="center">
+  <!-- Ensure SpringBootBytelusko is set to PUBLIC on your GitHub, otherwise this card will not load -->
   <a href="https://github.com/sagarpattasani/SpringBootBytelusko">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=SpringBootBytelusko&theme=radical&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=333333&show_icons=true" alt="Spring Boot Project" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=SpringBootBytelusko&theme=radical&show_icons=true" alt="Spring Boot Project" width="48%" />
   </a>
 </div>
 
