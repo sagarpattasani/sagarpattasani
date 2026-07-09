@@ -8,13 +8,13 @@
 
 <div align="center">
   <!-- The Green Terminal Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=>_SAGAR_PATTASANI&fontSize=50&fontAlignY=45&animation=twinkling&fontColor=00FF00&desc=Java%20Backend%20Developer%20|%20Software%20Engineer&descAlignY=70&descSize=20" alt="Terminal Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=>_SAGAR_PATTASANI&fontSize=50&fontAlignY=45&animation=twinkling&fontColor=00FF00&desc=Java%20Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=70&descSize=20" alt="Terminal Header" />
   
   <br><br>
 
   <!-- Animated Terminal Typing Effect (Green) -->
   <a href="https://github.com/sagarpattasani">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=>+Initializing_System...;>+Final_Year_B.Tech_Computer_Science_Student;>+Building_Scalable_Backend_Architecture_in_Java;>+System_Ready._" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=>+Initializing_System...;>+Final_Year_B.Tech_Computer_Science_Student;>+Building_Scalable_Full_Stack_Applications;>+System_Ready._" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,9 +22,9 @@
 
 ## 👨‍💻 About Me
 
-I am a final-year B.Tech Computer Science student specializing in backend architecture and full-stack enterprise application development. I focus on building robust, scalable, and maintainable software utilizing the Java and Spring ecosystems. My approach emphasizes clean code, fundamental computer science principles, and continuous learning.
+I am a final-year B.Tech Computer Science student specializing in full-stack enterprise application development. I focus on building robust, scalable, and maintainable software utilizing the Java and Spring ecosystems alongside modern frontend technologies. My approach emphasizes clean code, fundamental computer science principles, and continuous learning.
 
-Beyond academics, I actively solve complex algorithmic problems and run a tech education YouTube channel, *Code With CRX*, to share my programming journey and help others. I am actively seeking full-time opportunities as a **Software Engineer** or **Java Backend Developer**.
+Beyond academics, I actively solve complex algorithmic problems and run a tech education YouTube channel, *Code With CRX*, to share my programming journey and help others. I am actively seeking full-time opportunities as a **Software Engineer** or **Java Full Stack Developer**.
 
 ---
 
