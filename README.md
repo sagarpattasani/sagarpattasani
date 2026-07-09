@@ -1,161 +1,119 @@
 <!-- 
   ======================================================================
-  PROFESSIONAL HYBRID GITHUB PROFILE README
+  PREMIUM MINIMALIST GITHUB PROFILE
   Designed for: Sagar Pattasani
-  Theme: Terminal Green Header + Clean Professional Body
+  Theme: Dark Slate & Deep Blue (Professional & Recruiter-Focused)
   ======================================================================
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=>_SAGAR_PATTASANI&fontSize=50&fontAlignY=45&animation=twinkling&fontColor=00FF00&desc=Java%20Backend%20Developer%20|%20Software%20Engineer&descAlignY=70&descSize=20" alt="Terminal Header" />
+  <h1 align="center">Hi, I'm Sagar Pattasani 👋</h1>
+  <h3 align="center">Software Engineer | Java Full Stack Developer</h3>
   
-  <br><br>
+  <p align="center">
+    Building scalable backend systems and responsive user interfaces.<br>
+    Final Year B.Tech Computer Science Student with a strong foundation in DSA and Enterprise Architecture.
+  </p>
 
-  <!-- Animated Terminal Typing Effect -->
-  <a href="https://github.com/sagarpattasani">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=>+Initializing_System...;>+Loading_Profile:_Sagar_Pattasani;>+Final_Year_B.Tech_CS_Student;>+Building_Scalable_Backend_Architecture;>+System_Ready._" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/sagarpattasani">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Writing+clean,+maintainable+code+in+Java;Architecting+RESTful+APIs+with+Spring+Boot;Designing+interfaces+with+React.js+%26+Thymeleaf;Solving+complex+problems+with+DSA" alt="Typing SVG" />
+    </a>
+  </p>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a final-year B.Tech Computer Science student specializing in backend architecture and enterprise application development. I focus on building robust, scalable, and maintainable software utilizing the Java and Spring ecosystems. My approach emphasizes clean code, fundamental computer science principles, and continuous learning to adapt to modern engineering standards. 
-
-I am actively seeking opportunities as a **Software Engineer** or **Java Backend Developer** where I can contribute to high-impact projects.
+- 🎓 **Education:** Final Year B.Tech in Computer Science Engineering.
+- 💡 **Focus:** Specialized in **Backend Development** (Java, Spring Boot) with solid capability in **Frontend Development** (React.js, JavaScript).
+- ⚙️ **Philosophy:** I believe in writing code that is not only functional but also clean, modular, and scalable. I focus heavily on fundamental CS principles.
+- 🎯 **Current Goal:** Actively seeking full-time opportunities as a Software Engineer or Java Backend Developer where I can build high-impact products.
+- 🎥 **Beyond Coding:** I run a YouTube channel focused on programming and tech education, helping others navigate their coding journeys.
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Arsenal
+
+> *Designed with a unified dark slate palette for a clean, professional aesthetic.*
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Backend Development</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
-        <br>
-        <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=Postman&logoColor=white" alt="REST API" />
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security (Learning)" />
-      </div>
+    <td width="33%" valign="top">
+      <h3>Backend & Frameworks</h3>
+      <img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <br><br>
+      <img src="https://img.shields.io/badge/Spring_Boot-1E293B?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Boot" /> <br><br>
+      <img src="https://img.shields.io/badge/Spring_MVC-1E293B?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring MVC" /> <br><br>
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-1E293B?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Data JPA" />
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Frontend & Templates</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <br>
-        <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React (Learning)" />
-      </div>
+    <td width="33%" valign="top">
+      <h3>Frontend & UI</h3>
+      <img src="https://img.shields.io/badge/React_JS-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <br><br>
+      <img src="https://img.shields.io/badge/HTML5_&_CSS3-1E293B?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML/CSS" /> <br><br>
+      <img src="https://img.shields.io/badge/Thymeleaf-1E293B?style=for-the-badge&logo=Thymeleaf&logoColor=005C0F" alt="Thymeleaf" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Databases & Core CS</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/DSA-4B0082?style=for-the-badge&logo=leetcode&logoColor=white" alt="Data Structures & Algorithms" />
-        <br>
-        <img src="https://img.shields.io/badge/OOP-191970?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP" />
-        <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=awsorganizations&logoColor=white" alt="System Design" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Tools & IDEs</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-        <br>
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-        <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-      </div>
+    <td width="33%" valign="top">
+      <h3>Databases, DSA & Tools</h3>
+      <img src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" /> <br><br>
+      <img src="https://img.shields.io/badge/DSA-1E293B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="DSA" /> <br><br>
+      <img src="https://img.shields.io/badge/Git_&_GitHub-1E293B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> <br><br>
+      <img src="https://img.shields.io/badge/Eclipse-1E293B?style=for-the-badge&logo=eclipse&logoColor=2C2255" alt="Eclipse" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Growth & Roadmap
+## 📈 GitHub Analytics
 
-**Currently Mastering:**
-`JUnit 5 & Mockito` • `Spring Batch` • `Microservices Architecture` • `Docker` • `React.js` • `Clean Architecture`
-
-**2026 Focus Objectives:**
-`Redis` • `Apache Kafka` • `AWS (Cloud Native)` • `Kubernetes` • `CI/CD (Jenkins)` • `Elasticsearch`
+<div align="center">
+  <!-- Unified 'transparent' theme with blue highlights to match the professional look -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarpattasani&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=A3A3A3&icon_color=3B82F6" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpattasani&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakNum=3B82F6&sideLabels=A3A3A3&dates=A3A3A3" alt="GitHub Streak" width="48%" />
+</div>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
+  <!-- Working project card for SpringBootBytelusko -->
   <a href="https://github.com/sagarpattasani/SpringBootBytelusko">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=SpringBootBytelusko&theme=tokyonight&show_icons=true" alt="Spring Boot Project" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=SpringBootBytelusko&theme=transparent&hide_border=false&title_color=3B82F6&text_color=A3A3A3&icon_color=3B82F6&border_color=333333" alt="Spring Boot Project" width="48%" />
   </a>
+  
+  <!-- Add your next repository name where it says YOUR_REPO_NAME -->
+  <!-- 
+  <a href="https://github.com/sagarpattasani/YOUR_REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=YOUR_REPO_NAME&theme=transparent&hide_border=false&title_color=3B82F6&text_color=A3A3A3&icon_color=3B82F6&border_color=333333" alt="Project 2" width="48%" />
+  </a> 
+  -->
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🔄 Currently Learning & Exploring
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagarpattasani&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Sagar's Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarpattasani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpattasani&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarpattasani&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-## ⚙️ Daily Development Philosophy
-
-> "Writing code is only half the job; the other half is engineering systems that are maintainable, predictable, and scalable over time."
-
----
-
-## 💡 Fun Facts & Interests
-
-*   **Problem Solving:** Actively practicing Data Structures and Algorithms on various coding platforms to refine algorithmic thinking.
-*   **Content Creation:** Outside of academics and development, I manage a tech and programming YouTube channel named *Code With CRX*, creating tutorials and sharing insights with the community.
-*   **Engineering Focus:** Deeply interested in how frameworks work under the hood, particularly the Spring Ecosystem and the JVM's architecture.
+- **Microservices Architecture:** Understanding how to break down monolithic applications.
+- **Spring Security:** Implementing robust authentication and authorization.
+- **Advanced React Patterns:** Enhancing state management and component reusability.
 
 ---
 
 ## 📬 Let's Connect
 
 <div align="center">
+  <p>Open for full-time roles, freelance opportunities, or technical discussions.</p>
+  
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
   </a>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-1E293B?style=for-the-badge&logo=LeetCode&logoColor=FFA116" alt="LeetCode" />
   </a>
-  <a href="https://youtube.com/@CodeWithCRX">
-    <img src="https://img.shields.io/badge/Code_With_CRX-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <i>Continuously building, testing, and shipping.</i>
 </div>
