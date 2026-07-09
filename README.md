@@ -30,3 +30,18 @@
   "mission": "To engineer robust, scalable enterprise solutions utilizing the Spring ecosystem.",
   "status": "Actively seeking full-time opportunities"
 }
+
+
+
+
+#!/bin/bash
+# Currently optimizing and learning:
+mastering=("JUnit 5" "Mockito" "Spring Batch" "Microservices" "Docker" "Clean Architecture")
+
+# 2026 Target Objectives:
+roadmap=("Redis" "Apache Kafka" "AWS" "Kubernetes" "Jenkins CI/CD")
+
+
+
+sagar@server:~$ exit
+logout
