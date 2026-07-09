@@ -7,7 +7,7 @@
 -->
 
 <div align="center">
-  <!-- The Green Terminal Header you selected -->
+  <!-- The Green Terminal Header -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=>_SAGAR_PATTASANI&fontSize=50&fontAlignY=45&animation=twinkling&fontColor=00FF00&desc=Java%20Backend%20Developer%20|%20Software%20Engineer&descAlignY=70&descSize=20" alt="Terminal Header" />
   
   <br><br>
@@ -89,12 +89,13 @@ Beyond academics, I actively solve complex algorithmic problems and run a tech e
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
-  <!-- Fixed API Links with Cache Busters and Custom Black/Green Hacker Colors -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarpattasani&show_icons=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=00FF00&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=sagarpattasani&background=000000&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" width="48%" />
+  <!-- Ultra-reliable static badges that will never break or show a black screen -->
+  <img src="https://img.shields.io/github/followers/sagarpattasani?style=for-the-badge&logo=github&color=00FF00&labelColor=000000" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/repos/sagarpattasani?style=for-the-badge&logo=github&color=00FF00&labelColor=000000" alt="GitHub Repositories" />
+  <img src="https://img.shields.io/badge/Profile_Status-Active-00FF00?style=for-the-badge&logo=github&labelColor=000000" alt="Active Status" />
 </div>
 
 ---
@@ -102,10 +103,12 @@ Beyond academics, I actively solve complex algorithmic problems and run a tech e
 ## 📂 Featured Projects
 
 <div align="center">
-  <!-- Ensure SpringBootBytelusko is PUBLIC. Cache buster added to force refresh. -->
+  <!-- Clean, Static Spring Boot Banner linked to your Repo -->
+  <h3>>_ SpringBootBytelusko</h3>
   <a href="https://github.com/sagarpattasani/SpringBootBytelusko">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=SpringBootBytelusko&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=00FF00&show_icons=true&cache_seconds=86400" alt="Spring Boot Project" width="48%" />
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot Project" width="50%" />
   </a>
+  <p><i>Click the banner above to view the repository code.</i></p>
 </div>
 
 ---
