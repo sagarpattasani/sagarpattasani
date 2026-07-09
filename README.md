@@ -8,10 +8,6 @@
 -->
 
 <div align="center">
-  <!-- 
-    REPLACE: If you want a different color scheme for the banner, 
-    change the 'color' parameter in the URL below. 
-  -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0891b2&height=200&section=header&text=Sagar%20Pattasani&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Sagar Pattasani Banner" />
   
   <br>
@@ -99,34 +95,27 @@ I am actively seeking opportunities as a **Software Engineer** or **Java Backend
 
 ## 📂 Featured Projects
 
-<!-- 
-  REPLACE: Change the 'repo=' values to the exact repository names you create on your GitHub. 
-  These dynamically generate beautiful cards.
--->
 <div align="center">
-  <a href="https://github.com/sagarpattasani/ticket-booking-web-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=ticket-booking-web-app&theme=tokyonight&show_icons=true" alt="Ticket Booking Web Application" width="48%" />
+  <!-- ACTUAL WORKING REPOSITORY -->
+  <a href="https://github.com/sagarpattasani/SpringBootBytelusko">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=SpringBootBytelusko&theme=tokyonight&show_icons=true" alt="Spring Boot Project" width="48%" />
   </a>
-  <a href="https://github.com/sagarpattasani/student-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=student-management-system&theme=tokyonight&show_icons=true" alt="Student Management System" width="48%" />
+
+  <!-- 
+    WHEN YOU ADD MORE REPOSITORIES LATER, UNCOMMENT THIS SECTION BELOW
+    AND REPLACE 'YOUR_SECOND_REPO_NAME' WITH THE ACTUAL NAME.
+  -->
+  <!--
+  <a href="https://github.com/sagarpattasani/YOUR_SECOND_REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=YOUR_SECOND_REPO_NAME&theme=tokyonight&show_icons=true" alt="Project 2" width="48%" />
   </a>
-  <br>
-  <a href="https://github.com/sagarpattasani/spring-boot-crm-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=spring-boot-crm-api&theme=tokyonight&show_icons=true" alt="Spring Boot REST API / CRM System" width="48%" />
-  </a>
-  <a href="https://github.com/sagarpattasani/dsa-java-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpattasani&repo=dsa-java-practice&theme=tokyonight&show_icons=true" alt="DSA & Core Java Practice" width="48%" />
-  </a>
+  -->
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<!-- 
-  NOTE: The Trophy section and Stats section dynamically fetch your data.
-  Theme is set to 'tokyonight' for a premium, unified dark look.
--->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sagarpattasani&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Sagar's Trophies" />
 </div>
@@ -143,17 +132,6 @@ I am actively seeking opportunities as a **Software Engineer** or **Java Backend
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarpattasani&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
-
-<!-- 
-  CONTRIBUTION SNAKE PLACEHOLDER
-  To enable this, you need to set up a GitHub Action using 'Platane/snk'.
-  Once set up, uncomment the image tag below and replace the URL with your generated snake output path.
--->
-<!-- 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sagarpattasani/sagarpattasani/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div> 
--->
 
 ---
 
@@ -173,10 +151,6 @@ I am actively seeking opportunities as a **Software Engineer** or **Java Backend
 
 ## 📬 Let's Connect
 
-<!-- 
-  REPLACE: Update the LinkedIn username, LeetCode username, and Email address below.
-  Leave YouTube or remove it based on your preference.
--->
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -187,12 +161,6 @@ I am actively seeking opportunities as a **Software Engineer** or **Java Backend
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <!-- Optional Portfolio Link -->
-  <!-- 
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
-  </a> 
-  -->
 </div>
 
 <br>
